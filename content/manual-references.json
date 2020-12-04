@@ -1,22 +1,288 @@
 [
-{
-  "id": "url:https://github.com/manubot/rootstock",
-  "type": "webpage",
-  "URL": "https://github.com/manubot/rootstock",
-  "title": "manubot/rootstock GitHub repository",
-  "container-title": "GitHub",
-  "issued": {
-    "date-parts": [
-      [
-        2019
-      ]
-    ]
-  },
-  "author": [
-    {
-      "given": "Daniel",
-      "family": "Himmelstein"
-    }
-  ]
-}
+	{
+		"id": "http://zotero.org/groups/2323485/items/8C92G7E2",
+		"type": "post-weblog",
+		"container-title": "New America Indianapolis",
+		"language": "en",
+		"title": "The Ethnic Cleansing of Black Indianapolis",
+		"URL": "http://newamerica.org/indianapolis/blog/indiana-avenue-ethnic-cleansing-black-indianapolis/",
+		"author": [
+			{
+				"family": "Paschall",
+				"given": "Wildstyle"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2323485/items/AGHCTYIJ",
+		"type": "map",
+		"abstract": "In 1970, half of the region's Black population lived in 12 square miles north of downtown Indianapolis. As Black residents moved into '60s suburban communities, 120,000 White residents left the city's core for newer suburbs.",
+		"language": "en-US",
+		"title": "Mapping Race: Race and Migration in Indianapolis, 1970-2016",
+		"title-short": "Mapping Race",
+		"URL": "https://www.savi.org/2018/05/07/mapping-race/",
+		"author": [
+			{
+				"literal": "Matt Nowlin"
+			},
+			{
+				"literal": "Kelly Davila"
+			},
+			{
+				"literal": "Unai Miguel Andres"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2323485/items/Z5LAX5L6",
+		"type": "post-weblog",
+		"container-title": "Indiana Legal Archive",
+		"language": "en-US",
+		"title": "Historical Injustice in the Urban Environment: The Ecological Implications of Residential Segregation in Indianapolis",
+		"URL": "http://www.indianalegalarchive.com/ej-case-study",
+		"author": [
+			{
+				"family": "Schwier",
+				"given": "Ryan T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2323485/items/M26CANYL",
+		"type": "article",
+		"title": "Historic Area Preservation Plan: Fayette Street Conservation Area",
+		"author": [
+			{
+				"literal": "Connie L. Choate"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995",
+					2,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2323485/items/QEE9HCM3",
+		"type": "report",
+		"publisher": "Robert Wood Johnson Foundation: Commission to Build a Healthier America",
+		"title": "Where We Live Matters for Our Health: The Links Between Housing and Health",
+		"URL": "https://nchh.org/resource/rwjf_where-we-live-matters-for-our-health_the-links-between-housing-and-health/",
+		"author": [
+			{
+				"family": "Pollack",
+				"given": "Craig"
+			},
+			{
+				"family": "Egerter",
+				"given": "Susan"
+			},
+			{
+				"family": "Sadegh-Nobari",
+				"given": "Tabashir"
+			},
+			{
+				"family": "Dekker",
+				"given": "Merceded"
+			},
+			{
+				"family": "Braveman",
+				"given": "Paula"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					9,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2323485/items/RHJ9KDDS",
+		"type": "report",
+		"abstract": "This brief is a primer that explains how federal housing assistance programs work and how they, and the problems they are designed to address, have changed over the past decade. The data show that renter housing needs have grown substantially – almost totally because of unaffordably high rents rather than physical deficiencies – and that federal housing assistance is far from keeping up. The number of low income renters that actually receive federal housing assistance has dropped notably as a fraction of the low income households that need it. From the evidence available now, it seems almost certain that this gap will continue to worsen over the next several years.",
+		"language": "en",
+		"publisher": "Urban Institute",
+		"title": "Trends in Housing Problems and Federal Housing Assistance",
+		"URL": "https://www.urban.org/research/publication/trends-housing-problems-and-federal-housing-assistance",
+		"author": [
+			{
+				"family": "Kingsley",
+				"given": "G. Thomas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2323485/items/CFJHZQGZ",
+		"type": "motion_picture",
+		"abstract": "Redlining - the discriminatory practice by which banks refuse or limit mortgages to people of color, ethnic minorities, and low-income workers within specific geographic areas - still defines much of where we live or can live in Indianapolis. These federal policies, established by the Home Owners' Loan Corporation in 1933, reinforced segregation and disinvestment in parts of the community, with ramifications felt today, particularly in Black neighborhoods. \nWhat do disciminatory housing practices look like in our city? How can equitable housing policies change that trajectory now? Join us for a series of interdisciplinary community discussions with advocates, leaders, and scholars to examine the tangled roots of race, class and housing in Indianapolis and grapple with its consequences today. \nMaking it Local with Unai Miguel Andres, Paul Mullins, Wildstyle Paschall, and Stacia Murphy. Explore what redlining looks like here in Indianapolis, considering history, demographics, and memory.",
+		"collection-title": "Living the Legacy",
+		"dimensions": "1:18:45",
+		"publisher": "Indiana Historical Society",
+		"source": "YouTube",
+		"title": "Making it Local",
+		"URL": "https://www.youtube.com/watch?v=__g-phpvBCk",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2323485/items/FJGHDJ2R",
+		"type": "book",
+		"ISBN": "978-1-63149-286-0",
+		"publisher": "Liveright Publishing Corporation",
+		"title": "The Color of Law: A Forgotten History of How Our Government Segregated America",
+		"author": [
+			{
+				"family": "Rothstein",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2323485/items/GWGQAQY8",
+		"type": "webpage",
+		"abstract": "Redlining in New Deal America",
+		"container-title": "Mapping Inequality",
+		"language": "en",
+		"title": "American Panorama",
+		"URL": "https://dsl.richmond.edu/panorama/redlining/",
+		"author": [
+			{
+				"family": "Nelson",
+				"given": "Robert K."
+			},
+			{
+				"family": "Winling",
+				"given": "LaDale"
+			},
+			{
+				"family": "Marciano",
+				"given": "Richard"
+			},
+			{
+				"family": "Connolly",
+				"given": "Nathan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					2
+				]
+			]
+		}
+	}
 ]
