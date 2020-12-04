@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d07dd9d64eb528c466dcccbcca04aa5108b7430d/" />
+  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/864bb4d084d5e7d7b072bff18cb2c059610bdd88/" />
 
-  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d07dd9d64eb528c466dcccbcca04aa5108b7430d/" />
+  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/864bb4d084d5e7d7b072bff18cb2c059610bdd88/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d07dd9d64eb528c466dcccbcca04aa5108b7430d/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/864bb4d084d5e7d7b072bff18cb2c059610bdd88/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d07dd9d64eb528c466dcccbcca04aa5108b7430d/))
+([permalink](https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/864bb4d084d5e7d7b072bff18cb2c059610bdd88/))
 was automatically generated
-from [andtheWings/IRB_for_Indy_Housing_Interviews@d07dd9d](https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/tree/d07dd9d64eb528c466dcccbcca04aa5108b7430d)
+from [andtheWings/IRB_for_Indy_Housing_Interviews@864bb4d](https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/tree/864bb4d084d5e7d7b072bff18cb2c059610bdd88)
 on December 4, 2020.
 </em></small>
 
@@ -138,7 +138,7 @@ on December 4, 2020.
 
 ## Abstract {.page_break_before}
 
-
+Hello, I'm learning how to edit this manuscript!
 
 
 ## References {.page_break_before}
