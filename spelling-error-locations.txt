@@ -1,0 +1,17 @@
+content/01.background.md:5:funder
+content/01.background.md:9:Crispus
+content/01.background.md:11:Flanner
+content/01.background.md:11:Lockefield
+content/01.background.md:15:homeownership
+content/01.background.md:17:HOLC
+content/01.background.md:17:HOLC
+content/01.background.md:17:HOLC
+content/01.background.md:17:HOLC
+content/01.background.md:17:HOLC’s
+content/01.background.md:21:Kessler
+content/01.background.md:23:disinvested
+content/01.background.md:23:IUPUI
+content/01.background.md:25:HOLC
+content/01.background.md:25:HOLC’s
+content/01.background.md:27:IU
+content/01.background.md:27:IU
