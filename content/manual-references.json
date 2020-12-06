@@ -284,5 +284,38 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/2323485/items/EUVTTZH5",
+		"type": "motion_picture",
+		"abstract": "Indiana Landmarks is a nonprofit organization working to save meaningful Hoosier places. We rescue them, we rehabilitate them,&nbsp;...",
+		"dimensions": "1:02:12",
+		"source": "YouTube",
+		"title": "Indiana Avenue Matters: The History and Future of an Indianapolis Neighborhood",
+		"title-short": "Indiana Avenue Matters",
+		"URL": "https://www.youtube.com/watch?v=TMfke-ixbdA&t=122s",
+		"author": [
+			{
+				"literal": "Indiana Landmarks"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					11
+				]
+			]
+		}
 	}
 ]
