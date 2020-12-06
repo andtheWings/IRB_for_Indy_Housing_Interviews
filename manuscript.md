@@ -5,8 +5,8 @@ author-meta:
 - Tracey A. Wilkinson
 bibliography:
 - content/manual-references.json
-date-meta: '2020-12-05'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta name=\"citation_title\" content=\"Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta property=\"og:title\" content=\"Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta property=\"twitter:title\" content=\"Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta name=\"dc.date\" content=\"2020-12-05\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-05\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Daniel P. Riggins\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pediatrics, Indiana University School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6240-6212\" />\n<meta name=\"twitter:creator\" content=\"@danriggins\" />\n<meta name=\"citation_author\" content=\"Lauren M. Hall\" />\n<meta name=\"citation_author_institution\" content=\"Department of American Studies, Indiana University School of Liberal Arts\" />\n<meta name=\"citation_author\" content=\"Tracey A. Wilkinson\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pediatrics, Indiana University School of Medicine\" />\n<link rel=\"canonical\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"og:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"twitter:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_pdf_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/762615636f3b20717c18f36beea85dd286e42965/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/762615636f3b20717c18f36beea85dd286e42965/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/762615636f3b20717c18f36beea85dd286e42965/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-12-06'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta name=\"citation_title\" content=\"Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta property=\"og:title\" content=\"Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta property=\"twitter:title\" content=\"Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta name=\"dc.date\" content=\"2020-12-06\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-06\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Daniel P. Riggins\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pediatrics, Indiana University School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6240-6212\" />\n<meta name=\"twitter:creator\" content=\"@danriggins\" />\n<meta name=\"citation_author\" content=\"Lauren M. Hall\" />\n<meta name=\"citation_author_institution\" content=\"Department of American Studies, Indiana University School of Liberal Arts\" />\n<meta name=\"twitter:creator\" content=\"@lahamarie\" />\n<meta name=\"citation_author\" content=\"Tracey A. Wilkinson\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pediatrics, Indiana University School of Medicine\" />\n<link rel=\"canonical\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"og:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"twitter:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_pdf_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/af8cf8b12631dbc66ea7fb67a8a73cd24bf049d5/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/af8cf8b12631dbc66ea7fb67a8a73cd24bf049d5/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/af8cf8b12631dbc66ea7fb67a8a73cd24bf049d5/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - housing
 - equity
@@ -28,10 +28,10 @@ title: "Understanding Black Indianapolis Community Members\u2019 Vision for Hous
 
 <small><em>
 This manuscript
-([permalink](https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/762615636f3b20717c18f36beea85dd286e42965/))
+([permalink](https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/af8cf8b12631dbc66ea7fb67a8a73cd24bf049d5/))
 was automatically generated
-from [andtheWings/IRB_for_Indy_Housing_Interviews@7626156](https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/tree/762615636f3b20717c18f36beea85dd286e42965)
-on December 5, 2020.
+from [andtheWings/IRB_for_Indy_Housing_Interviews@af8cf8b](https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/tree/af8cf8b12631dbc66ea7fb67a8a73cd24bf049d5)
+on December 6, 2020.
 </em></small>
 
 ## Authors
@@ -49,7 +49,9 @@ on December 5, 2020.
      Department of Pediatrics, Indiana University School of Medicine
   </small>
 
-+ **Lauren M. Hall**<br><br>
++ **Lauren M. Hall**<br>
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [lahamarie](https://twitter.com/lahamarie)<br>
   <small>
      Department of American Studies, Indiana University School of Liberal Arts
   </small>
@@ -107,6 +109,85 @@ A CLT channels community voice with its unique tripartite leadership structure. 
 
 If IUPUI and IU Health are to pay reparations and help form a CLT for the benefit of the Black community in Indianapolis, we as members of these anchor institutions need to use the Black community’s voice to clarify our mandate from Day 1. We will conduct semi-structured interviews to bolster that voice. It is our hope that the Black community will join us as partners as we undergo this process.
 
+
+## Inclusion and Exclusion Criteria {.page_break_before}
+
+Inclusion:
+
+- Current residents of neighborhoods surrounding IU School of Medicine and IU Health's downtown campus (approximately Indianapolis' Near Westside, Near Northwest, and Near Northside)
+- Residents must self-identify as members of the Black community
+- Residents must be above age 18 and English-speaking (until adequately translated study materials can be produced and reviewed), all gender identifications included
+
+Exclusion:
+
+- Non-current residents of the area defined above
+- Not self-identifying as Black
+- Non-English speaking and below the age of 18
+
+
+## Enrollment/Randomization {.page_break_before}
+
+Recruiters for this study will initially identify study participants by one of the following methods:
+
+- Referral from local stakeholders working for organizations in domains like community development or housing advocacy
+    - Such organizations include but are not limited to:
+        - Reclaim Indiana Avenue
+        - Near Northside Development Corporation
+        - Ransom Place Neighborhood Association
+        - Homes for All Indy
+        - Westside CDC
+- Referral from residents of the neighborhoods of interest
+- Direct solicitation within neighborhoods of interest
+- Self-referral by participants after seeing advertisements on paper flyers or social media
+
+We will recruit using email advertisements, phone calls, social media, or socially-distanced, in-person communication. When possible, we will ask for introductions via common acquaintances to aid in credibility.  Participants will be directed to a landing page explaining the nature of the study and asked to provide their contact information.  We will reach out to participants via preferred method of contact (phone/email/text) and coordinate a time and location to meet.
+
+As a qualitative study, there will be no randomization procedure. We will enroll study participants until we have reached saturation for the themes listed below, which we estimate to be approximately 15-30 people.
+
+Consent by web form or written form will always be obtained prior to starting the interview.
+
+
+## Study Procedures {.page_break_before}
+
+Interviews will be performed by whatever method feels most safe and convenient to each participant (e.g. in person, over the phone, or Zoom). After the interview is complete, interviewers will ask the participant if we have permission to share the conversation publicly or if they would prefer for it to be kept solely for private use by the study. Examples for public use of the interviews include blog posts, podcasts, or digital archival.
+
+Please see attached the outline of our semi-structured interview. We anticipate the interview will take ~30-40 minutes to complete. Interviews will be conducted by the study investigators.
+
+We will generate interview transcripts with encrypted, cloud-based recording software and a smartphone. Transcripts will be qualitatively coded around the following hypothesized themes:
+
+- General neighborhood perceptions
+- Neighborhood housing issues
+- Neighborhood visions for change
+- Desired partnership organizations
+- Perceived components of a just partnership
+- Perceptions of IUSM/IU Health as partners
+- Suggested additional connections that will build up a social network of stakeholders as well as identify future prospective interviewees
+
+If other themes arise, they will be added to the codebook. Coding will be performed by at least 2 people to ensure concordance.
+
+Concepts, people, neighborhoods, and organizations will be stored in a graph database that can be queried to compare and contrast patterns related to the themes above. Salient findings will be fed into subsequent investigations using quantitative methods.
+
+
+
+## Reporting of Adverse Events or Unanticipated Problems involving Risk to Participants or Others {.page_break_before}
+
+Given the sensitivity of housing issues--especially around eviction and homelessness--we will take the utmost care to maintain privacy. Should any personal information be unintentionally disseminated, we will offer a timely report of the incident to the participant in question. The report will include details regarding how the event took place, how we will act to prevent similar events in the future, suggested mitigating steps, and how we plan to offer support should the participant want it.
+
+## Study Withdrawal/Discontinuation {.page_break_before}
+
+Should a study participant wish their interview transcript and data to be withdrawn from the study, the researchers will immediately respect their wish. We will share contact information to which the participant can submit an email or phone call request. 
+
+## Statistical Considerations {.page_break_before}
+
+Given our use of qualitative methods, the researchers will use minimal statistical methods with the exception of basic descriptive statistics such as the mode of thematic categories as distributed across neighborhoods. The pool of study participants is not meant to act as a representative sample of the population of Indianapolis neighborhood residents.
+
+## Privacy/Confidentiality Issues {.page_break_before}
+
+Because interviews will be recorded by cloud transcription software, only pseudonyms will be used for participants and no granular location data will be solicited. The part of the interview regarding social connections will be performed at the end without recording. A record linking transcripts to ID’s will be stored in an encrypted file to which only the PI and key personnel will have access. Consent documents, including those allowing us to share data publicly will be submitted for IRB approval.
+
+## Follow-up and Record Retention {.page_break_before}
+
+This study is oriented around using its interviews to build up a social network of housing stakeholders in Indianapolis. We will engage these stakeholders in future efforts to achieve their common vision for housing change. If that vision is indeed consistent with the formation of a CLT, we will use quantitative surveys to solidify consensus around key aspects of corresponding bylaws and articles of incorporation. Records will be retained indefinitely for use by the community in either de-identified or public form depending on the wishes of individual participants.
 
 ## References {.page_break_before}
 

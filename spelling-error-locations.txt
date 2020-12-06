@@ -33,3 +33,15 @@ content/02.rationale-and-specific-aims.md:15:CLT’s
 content/02.rationale-and-specific-aims.md:17:CLT
 content/02.rationale-and-specific-aims.md:17:IU
 content/02.rationale-and-specific-aims.md:17:IUPUI
+content/03.inclusion-and-exclusion-criteria.md:5:IU
+content/03.inclusion-and-exclusion-criteria.md:5:IU
+content/03.inclusion-and-exclusion-criteria.md:5:Northside
+content/03.inclusion-and-exclusion-criteria.md:5:Westside
+content/04.enrollment-and-randomization.md:8:Northside
+content/04.enrollment-and-randomization.md:11:Westside
+content/04.enrollment-and-randomization.md:14:flyers
+content/05.study-procedures.md:14:IU
+content/05.study-procedures.md:14:IUSM
+content/05.study-procedures.md:17:codebook
+content/09.privacy-and-confidentiality-considerations.md:3:IRB
+content/10.follow-up-and-record-retention.md:3:CLT
