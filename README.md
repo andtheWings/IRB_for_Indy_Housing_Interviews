@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/tree/gh-pages) branch hosts the contents of this directory at <https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/>.
-The permalink for this webpage version is <https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/bb7f6c7bc402dd2e60e135afbb993e19ca2277a6/>.
+The permalink for this webpage version is <https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/912151892611377d56daf8f55f3e38a28139a424/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`bb7f6c7bc402dd2e60e135afbb993e19ca2277a6`](https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/commit/bb7f6c7bc402dd2e60e135afbb993e19ca2277a6).
+[`912151892611377d56daf8f55f3e38a28139a424`](https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/commit/912151892611377d56daf8f55f3e38a28139a424).
