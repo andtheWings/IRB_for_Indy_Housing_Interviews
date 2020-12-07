@@ -17,8 +17,10 @@ content/01.background.md:29:disinvested
 content/01.background.md:29:IUPUI
 content/01.background.md:33:HOLC
 content/01.background.md:33:HOLC’s
-content/01.background.md:35:IU
-content/01.background.md:35:IU
+content/01.background.md:35:HOLC
+content/01.background.md:35:HOLC's
+content/01.background.md:37:IU
+content/01.background.md:37:IU
 content/02.rationale-and-specific-aims.md:3:IUPUI
 content/02.rationale-and-specific-aims.md:7:IUPUI
 content/02.rationale-and-specific-aims.md:9:CLT
