@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Source code for manuscript of "IRB Proposal: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods"
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -12,10 +12,9 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+Research project proposal to the Institutional Review Board (IRB) for IU School of Medicine. Please see an overivew of this project at the [Open Science Framework](https://osf.io/xp9sr/). Check out the rendered IRB proposal here: https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/
 
-## Manubot
+## Manubot: Automated scholarly manuscripts on GitHub
 
 <!-- usage note: do not edit this section -->
 
