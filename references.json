@@ -298,6 +298,34 @@
     "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\noriginal_id: http://zotero.org/groups/2323485/items/RHJ9KDDS\noriginal_standard_id: http://zotero.org/groups/2323485/items/RHJ9KDDS\nstandard_id: url:http://zotero.org/groups/2323485/items/RHJ9KDDS"
   },
   {
+    "id": "183Fa4qvP",
+    "type": "webpage",
+    "abstract": "Community land trusts are nonprofit, community-based organizations designed to ensure community stewardship of land. Community land trusts can be used for many types of development (including",
+    "container-title": "Community-Wealth.org",
+    "language": "en",
+    "title": "Community Land Trusts (CLTs)",
+    "URL": "https://community-wealth.org/strategies/panel/clts/index.html",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          12,
+          12
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          6,
+          21
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was loaded by Manubot v0.4.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\noriginal_id: http://zotero.org/groups/2323485/items/X2FU5RM9\noriginal_standard_id: http://zotero.org/groups/2323485/items/X2FU5RM9\nstandard_id: url:http://zotero.org/groups/2323485/items/X2FU5RM9"
+  },
+  {
     "id": "NuGbWtRw",
     "type": "post-weblog",
     "container-title": "Indiana Legal Archive",

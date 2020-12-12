@@ -5,8 +5,8 @@ author-meta:
 - Tracey A. Wilkinson
 bibliography:
 - content/manual-references.json
-date-meta: '2020-12-07'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"IRB Proposal: Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta name=\"citation_title\" content=\"IRB Proposal: Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta property=\"og:title\" content=\"IRB Proposal: Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta property=\"twitter:title\" content=\"IRB Proposal: Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta name=\"dc.date\" content=\"2020-12-07\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-07\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Daniel P. Riggins\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pediatrics, Indiana University School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6240-6212\" />\n<meta name=\"twitter:creator\" content=\"@danriggins\" />\n<meta name=\"citation_author\" content=\"Lauren M. Hall\" />\n<meta name=\"citation_author_institution\" content=\"Department of American Studies, Indiana University School of Liberal Arts\" />\n<meta name=\"twitter:creator\" content=\"@lahamarie\" />\n<meta name=\"citation_author\" content=\"Tracey A. Wilkinson\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pediatrics, Indiana University School of Medicine\" />\n<link rel=\"canonical\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"og:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"twitter:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_pdf_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d1e3a149d366e42df951380c0b82789d56ba12a2/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d1e3a149d366e42df951380c0b82789d56ba12a2/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d1e3a149d366e42df951380c0b82789d56ba12a2/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-12-12'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"IRB Proposal - Under Review: Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta name=\"citation_title\" content=\"IRB Proposal - Under Review: Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta property=\"og:title\" content=\"IRB Proposal - Under Review: Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta property=\"twitter:title\" content=\"IRB Proposal - Under Review: Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods\" />\n<meta name=\"dc.date\" content=\"2020-12-12\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-12\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Daniel P. Riggins\" />\n<meta name=\"citation_author_institution\" content=\"Resident Pediatrician, Department of Pediatrics, Indiana University School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6240-6212\" />\n<meta name=\"twitter:creator\" content=\"@danriggins\" />\n<meta name=\"citation_author\" content=\"Lauren M. Hall\" />\n<meta name=\"citation_author_institution\" content=\"Ph.D. Candidate, Department of American Studies, Indiana University School of Liberal Arts\" />\n<meta name=\"twitter:creator\" content=\"@lahamarie\" />\n<meta name=\"citation_author\" content=\"Tracey A. Wilkinson\" />\n<meta name=\"citation_author_institution\" content=\"Assistant Professor of Pediatrics, Department of Pediatrics, Indiana University School of Medicine\" />\n<link rel=\"canonical\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"og:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"twitter:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_pdf_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/a512121473194912b2d25e722e19c4caf26559b4/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/a512121473194912b2d25e722e19c4caf26559b4/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/a512121473194912b2d25e722e19c4caf26559b4/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - housing
 - equity
@@ -18,7 +18,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: "IRB Proposal: Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods"
+title: "IRB Proposal - Under Review: Understanding Black Indianapolis Community Members\u2019 Vision for Housing in their Neighborhoods"
 ...
 
 
@@ -28,10 +28,10 @@ title: "IRB Proposal: Understanding Black Indianapolis Community Members\u2019 V
 
 <small><em>
 This manuscript
-([permalink](https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d1e3a149d366e42df951380c0b82789d56ba12a2/))
+([permalink](https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/a512121473194912b2d25e722e19c4caf26559b4/))
 was automatically generated
-from [andtheWings/IRB_for_Indy_Housing_Interviews@d1e3a14](https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/tree/d1e3a149d366e42df951380c0b82789d56ba12a2)
-on December 7, 2020.
+from [andtheWings/IRB_for_Indy_Housing_Interviews@a512121](https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/tree/a512121473194912b2d25e722e19c4caf26559b4)
+on December 12, 2020.
 </em></small>
 
 ## Authors
@@ -46,19 +46,19 @@ on December 7, 2020.
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [danriggins](https://twitter.com/danriggins)<br>
   <small>
-     Department of Pediatrics, Indiana University School of Medicine
+     Resident Pediatrician, Department of Pediatrics, Indiana University School of Medicine
   </small>
 
 + **Lauren M. Hall**<br>
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [lahamarie](https://twitter.com/lahamarie)<br>
   <small>
-     Department of American Studies, Indiana University School of Liberal Arts
+     Ph.D. Candidate, Department of American Studies, Indiana University School of Liberal Arts
   </small>
 
 + **Tracey A. Wilkinson**<br><br>
   <small>
-     Department of Pediatrics, Indiana University School of Medicine
+     Assistant Professor of Pediatrics, Department of Pediatrics, Indiana University School of Medicine
   </small>
 
 
@@ -109,13 +109,15 @@ Direct participation of the Black community is essential to any successful attem
 
 Fast forward now to 2020. Buckingham Companies has just withdrawn its proposal to develop a new apartment complex on the Ave after months of sustained opposition from a coalition calling itself Reclaim Indiana Avenue. The coalition states it is not intrinsically against development, but that there are several features it found unacceptable in Buckingham’s proposal. When asked why it had not sought more input from local residents, Buckingham stated that it had participated in extensive conversations with representatives from IUPUI and board members of the Madam Walker Legacy Center. But as eloquently explained 40 years ago, the Black community is tired of external organizations telling it what it needs. How can we do better?
 
-The community land trust (CLT) model is a powerful tool for increasing affordable housing options, building wealth, and channeling community voice. The core mission of a CLT non-profit is to buy land and to steward its use for the benefit of the surrounding community, in perpetuity.  
+The community land trust (CLT) model is a powerful tool for increasing affordable housing options, building wealth, and channeling community voice. The core mission of a CLT non-profit is to buy land and to steward its use for the benefit of the surrounding community in perpetuity.
 
 A CLT enables affordable housing by separating ownership of land from ownership of a house on that land. The CLT keeps ownership of the land while a family buys the house, which is cheaper when sold by itself. Often the CLT will use a public subsidy to further discount the price.
 
 Over time, the family pays off its mortgage and builds equity. When they are ready to resell, they get to keep most of the equity, but there is a stipulation that some will be shared back with the CLT. In this way, the family walks away increased aggregate wealth and the CLT ensures it is recycling dollars back into maintaining affordability.
 
-A CLT channels community voice with its unique tripartite leadership structure. One-third of seats on a CLT board are filled by homeowners on CLT land. A second third is filled by residents who live in the surrounding neighborhood. The last third consists of local housing stakeholders and experts. Thus, a CLT ensures that a majority of its leadership is made up of people who are directly impacted by the CLT’s actions. Furthermore, the competing interests of each third of the board should balance out those of the others. Together they make choices that best fit the interests of the whole community.
+A CLT channels community voice with its unique tripartite leadership structure. One-third of seats on a CLT board are filled by homeowners on CLT land. A second third is filled by residents who live in the surrounding neighborhood. The last third consists of local housing stakeholders and experts. Thus, a CLT ensures that a majority of its leadership is made up of people who are directly impacted by the CLT’s actions. Furthermore, the competing interests of each third of the board should balance out those of the others. Together they make choices that best fit the interests of the whole community [@http://zotero.org/groups/2323485/items/X2FU5RM9].
+
+![Infographic explaining CLT's. Community-Wealth.org](https://community-wealth.org/sites/clone.community-wealth.org/files/clt-infographic.png)
 
 If IUPUI and IU Health are to pay reparations and help form a CLT for the benefit of the Black community in Indianapolis, we as members of these anchor institutions need to use the Black community’s voice to clarify our mandate from Day 1. We will conduct semi-structured interviews to bolster that voice. It is our hope that the Black community will join us as partners as we undergo this process.
 

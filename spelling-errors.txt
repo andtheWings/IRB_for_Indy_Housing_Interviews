@@ -11,6 +11,7 @@ funder
 HOLC
 HOLC’s
 homeownership
+Infographic
 IRB
 IU
 IUPUI

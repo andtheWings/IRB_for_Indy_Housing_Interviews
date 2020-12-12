@@ -36,9 +36,14 @@ content/02.rationale-and-specific-aims.md:15:CLT
 content/02.rationale-and-specific-aims.md:15:CLT
 content/02.rationale-and-specific-aims.md:15:CLT
 content/02.rationale-and-specific-aims.md:15:CLT’s
+content/02.rationale-and-specific-aims.md:17:clt
 content/02.rationale-and-specific-aims.md:17:CLT
-content/02.rationale-and-specific-aims.md:17:IU
-content/02.rationale-and-specific-aims.md:17:IUPUI
+content/02.rationale-and-specific-aims.md:17:CLT's
+content/02.rationale-and-specific-aims.md:17:infographic
+content/02.rationale-and-specific-aims.md:17:Infographic
+content/02.rationale-and-specific-aims.md:19:CLT
+content/02.rationale-and-specific-aims.md:19:IU
+content/02.rationale-and-specific-aims.md:19:IUPUI
 content/03.inclusion-and-exclusion-criteria.md:5:IU
 content/03.inclusion-and-exclusion-criteria.md:5:IU
 content/03.inclusion-and-exclusion-criteria.md:5:Northside
