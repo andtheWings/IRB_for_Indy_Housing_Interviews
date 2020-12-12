@@ -12,7 +12,7 @@
 
 <!-- usage note: edit this section. -->
 
-Research project proposal to the Institutional Review Board (IRB) for IU School of Medicine. Please see an overivew of this project at the [Open Science Framework](https://osf.io/xp9sr/). Check out the rendered IRB proposal here: https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/
+Research project proposal to the Institutional Review Board (IRB) for IU School of Medicine. Please see [an overivew of this project](https://osf.io/xp9sr/) at the Open Science Framework. Check out the rendered IRB proposal here: https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/
 
 ## Manubot: Automated scholarly manuscripts on GitHub
 
