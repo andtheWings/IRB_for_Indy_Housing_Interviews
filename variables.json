@@ -1,6 +1,6 @@
 {
   "pandoc": {
-    "title": "IRB Proposal - Under Review: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods",
+    "title": "IRB Protocol: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods",
     "keywords": [
       "housing",
       "equity",
@@ -9,13 +9,13 @@
       "wealth"
     ],
     "lang": "en-US",
-    "date-meta": "2020-12-12",
+    "date-meta": "2020-12-21",
     "author-meta": [
       "Daniel P. Riggins",
       "Lauren M. Hall",
       "Tracey A. Wilkinson"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"IRB Proposal - Under Review: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods\" />\n<meta name=\"citation_title\" content=\"IRB Proposal - Under Review: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods\" />\n<meta property=\"og:title\" content=\"IRB Proposal - Under Review: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods\" />\n<meta property=\"twitter:title\" content=\"IRB Proposal - Under Review: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods\" />\n<meta name=\"dc.date\" content=\"2020-12-12\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-12\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Daniel P. Riggins\" />\n<meta name=\"citation_author_institution\" content=\"Resident Pediatrician, Department of Pediatrics, Indiana University School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6240-6212\" />\n<meta name=\"twitter:creator\" content=\"@danriggins\" />\n<meta name=\"citation_author\" content=\"Lauren M. Hall\" />\n<meta name=\"citation_author_institution\" content=\"Ph.D. Candidate, Department of American Studies, Indiana University School of Liberal Arts\" />\n<meta name=\"twitter:creator\" content=\"@lahamarie\" />\n<meta name=\"citation_author\" content=\"Tracey A. Wilkinson\" />\n<meta name=\"citation_author_institution\" content=\"Assistant Professor of Pediatrics, Department of Pediatrics, Indiana University School of Medicine\" />\n<link rel=\"canonical\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"og:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"twitter:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_pdf_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/a512121473194912b2d25e722e19c4caf26559b4/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/a512121473194912b2d25e722e19c4caf26559b4/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/a512121473194912b2d25e722e19c4caf26559b4/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"IRB Protocol: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods\" />\n<meta name=\"citation_title\" content=\"IRB Protocol: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods\" />\n<meta property=\"og:title\" content=\"IRB Protocol: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods\" />\n<meta property=\"twitter:title\" content=\"IRB Protocol: Understanding Black Indianapolis Community Members’ Vision for Housing in their Neighborhoods\" />\n<meta name=\"dc.date\" content=\"2020-12-21\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-21\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Daniel P. Riggins\" />\n<meta name=\"citation_author_institution\" content=\"Resident Pediatrician, Department of Pediatrics, Indiana University School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6240-6212\" />\n<meta name=\"twitter:creator\" content=\"@danriggins\" />\n<meta name=\"citation_author\" content=\"Lauren M. Hall\" />\n<meta name=\"citation_author_institution\" content=\"Ph.D. Candidate, Department of American Studies, Indiana University School of Liberal Arts\" />\n<meta name=\"twitter:creator\" content=\"@lahamarie\" />\n<meta name=\"citation_author\" content=\"Tracey A. Wilkinson\" />\n<meta name=\"citation_author_institution\" content=\"Assistant Professor of Pediatrics, Department of Pediatrics, Indiana University School of Medicine\" />\n<link rel=\"canonical\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"og:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta property=\"twitter:url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/\" />\n<meta name=\"citation_pdf_url\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d9b76051ea2dfe3c70820f6f8fb92453d455941c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d9b76051ea2dfe3c70820f6f8fb92453d455941c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d9b76051ea2dfe3c70820f6f8fb92453d455941c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -25,7 +25,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "December 12, 2020",
+    "date": "December 21, 2020",
     "authors": [
       {
         "github": "andtheWings",
@@ -84,19 +84,19 @@
       "repo_slug": "andtheWings/IRB_for_Indy_Housing_Interviews",
       "repo_owner": "andtheWings",
       "repo_name": "IRB_for_Indy_Housing_Interviews",
-      "commit": "a512121473194912b2d25e722e19c4caf26559b4",
-      "triggering_commit": "a512121473194912b2d25e722e19c4caf26559b4",
-      "build_url": "https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/commit/a512121473194912b2d25e722e19c4caf26559b4/checks",
+      "commit": "d9b76051ea2dfe3c70820f6f8fb92453d455941c",
+      "triggering_commit": "d9b76051ea2dfe3c70820f6f8fb92453d455941c",
+      "build_url": "https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/commit/d9b76051ea2dfe3c70820f6f8fb92453d455941c/checks",
       "job_url": "https://github.com/andtheWings/IRB_for_Indy_Housing_Interviews/runs/run3"
     },
     "html_url": "https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/",
     "pdf_url": "https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/manuscript.pdf",
-    "html_url_versioned": "https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/a512121473194912b2d25e722e19c4caf26559b4/",
-    "pdf_url_versioned": "https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/a512121473194912b2d25e722e19c4caf26559b4/manuscript.pdf",
+    "html_url_versioned": "https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d9b76051ea2dfe3c70820f6f8fb92453d455941c/",
+    "pdf_url_versioned": "https://andtheWings.github.io/IRB_for_Indy_Housing_Interviews/v/d9b76051ea2dfe3c70820f6f8fb92453d455941c/manuscript.pdf",
     "manubot_version": "0.4.1",
     "rootstock_commit": "97b294802ffcd39071b6e5b8ab59f60faf4be118",
     "manuscript_stats": {
-      "word_count": 3085
+      "word_count": 3100
     }
   }
 }
